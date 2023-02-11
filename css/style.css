@@ -131,6 +131,7 @@
     border: 2px solid black;
     pointer-events: none;
 }
+
 *,
 :before,
 :after {
@@ -227,3 +228,4 @@
 #checkbox1:checked+.checkbox-label {
     box-shadow: inset 0 0 0 18px  black, 0 0 0 2px purple   ;
 }
+
